@@ -9,7 +9,9 @@
 <a href="https://www.figma.com/file/plrvHJ0MPcVfX8iloxCUTo/Alfred-Ram%C3%ADrez-Herrera?type=design&node-id=1%3A256&mode=design&t=Y9zhyHi8LEVqeob1-1">Link de Figma</a>
 
 <h2>Punto2: Diseño HTML</h2>
+    <img src="./public/Images/punto-2.png" alt="Punto-2">
 <h2>Punto3: Diseño con CSS</h2>
+    <img src="./public/Images/punto-3.png" alt="Punto-2">
 <h2>Punto4: Títulos</h2>
 <h2>Punto5: Párrafo</h2>
 <h2>Punto6: Links</h2>

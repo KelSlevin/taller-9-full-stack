@@ -19,8 +19,13 @@ h1 {
     height: 370px;
 }
 
-.banner__texts p {
-    font-family: 'Jost';
+.banner__texts p {    
+    color: white;    
+}
+
+.button--transparent {
+    background-color: transparent;
     color: white;
-    font-size: 14px;
+    border: 1px solid;
+    margin-left: 10px;
 }
