@@ -1,0 +1,13 @@
+.title_blue {
+    color: blue;
+    text-align: center;
+}
+
+.title_red {
+    color: red;
+    text-align: center;
+}
+
+.titles {
+    padding: 150px;
+}
