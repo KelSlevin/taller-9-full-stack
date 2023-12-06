@@ -17,9 +17,12 @@
 <h2>Punto3: Diseño con CSS</h2>
     <img src="./public/Images/punto-3.png" alt="Punto-2">
 <h2>Punto4: Títulos</h2>
+    <img src="./public/Images/punto-4.png" alt="Punto-4">
 <h2>Punto5: Párrafo</h2>
+<img src="./public/Images/punto-5.png" alt="Punto-5">
 <h2>Punto6: Links</h2>
+<img src="./public/Images/punto-6.png" alt="Punto-6">
 <h2>Punto 7 y 8: Link de Figma</h2>
+<img src="./public/Images/punto-7-8.png" alt="Punto-7-8">
 <h2>Punto9: Tabla</h2>
-
-
+<img src="./public/Images/punto-9.png" alt="Punto-4">
